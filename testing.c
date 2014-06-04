@@ -11,5 +11,8 @@ int main(){
 =======
 	printf("wha sec af t is up\n");
 >>>>>>> 3fb7070... first
+=======
+	printf("wha sec af t is up\n");
+>>>>>>> 3fb7070... first
 	return 0;
 }
