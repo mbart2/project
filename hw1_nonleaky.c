@@ -10,7 +10,7 @@ void* mymalloc(int size){
 	}
 	
 	void myfree(void* ptr){
-		fprintf(stderr, "free: %p\n",ptr);
+		fprintf(stderr, "fre  e: %p\n",ptr);
 		free(ptr);
 	}
 
